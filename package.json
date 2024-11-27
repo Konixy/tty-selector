@@ -8,7 +8,7 @@
     "dist"
   ],
   "repository": {
-    "url": "https://github.com/Konixy/tty-selector"
+    "url": "git+https://github.com/Konixy/tty-selector.git"
   },
   "scripts": {
     "build": "tsup",
@@ -21,7 +21,7 @@
   ],
   "author": "Anatole Dufour",
   "license": "ISC",
-  "description": "A lightweight cli multi-choice selector for NodeJs",
+  "description": "A lightweight multi-choice cli selector for NodeJs",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.0",
